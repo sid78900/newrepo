@@ -1,0 +1,6 @@
+runner\TagRunner.class
+runner\AmzonPageFactoryRunner.class
+runner\BackgroundRunner.class
+runner\HookRunner.class
+runner\FacebookRunner.class
+runner\LoginRunner.class
